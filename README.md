@@ -8,10 +8,10 @@ stop-wazuh.sh
 stops the wazuh indexer and dashboard services
 
 passive_enum.sh
-This is my personal passive recon shell
+This is my personal passive recon script
 it runs multiple subdomain passive enumeration scans
   
-  requires tools: 
+requires tools 
 https://github.com/tomnomnom/anew 
 https://github.com/gwen001/github-subdomains
 https://github.com/projectdiscovery/subfinder
